@@ -1,0 +1,1 @@
+console.error("Error: Cannot find module './StudyModal' from '/Users/mark/Sites/modern-webapps-with-react-and-redux/src'");
